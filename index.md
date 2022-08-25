@@ -1,5 +1,5 @@
 ---
-title: Bienvenue sur mon blogue
+title: Martin Jean
 ---
 
 Avec ce blogue, je partage mes découvertes et mes passions.
